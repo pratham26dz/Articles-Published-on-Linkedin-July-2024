@@ -1,4 +1,8 @@
-# Do Check My Articles On Tech
+#  **Explore My Articles**
+
+<p align="center">
+  <img src="https://i0.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg?fit=1584%2C396&ssl=1" />
+</p>
 
 - [Databricks](https://www.linkedin.com/posts/pratham-patil-3248a1238_databricks-dataengineering-bigdata-activity-7219010223510851584-Czop?utm_source=share&utm_medium=member_desktop)
 
