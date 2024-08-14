@@ -11,3 +11,5 @@
 - [Blockchain Technology](https://www.linkedin.com/posts/prathamramakantpatil_blockchaintechnology-decentralization-digitaltransformation-activity-7220479407872745472-qHff?utm_source=share&utm_medium=member_desktop)
 
 - [Quantum Revolution](https://www.linkedin.com/pulse/unveiling-quantum-revolution-beginners-guide-computing-pratham-patil-e1jcf)
+
+- [Natural Language Processing](https://www.linkedin.com/posts/prathamramakantpatil_nlp-naturallanguageprocessing-ai-activity-7226979987214467073-_qBb?utm_source=share&utm_medium=member_desktop)
