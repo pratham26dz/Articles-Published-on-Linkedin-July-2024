@@ -14,4 +14,4 @@
 
 - [Natural Language Processing](https://www.linkedin.com/posts/prathamramakantpatil_nlp-naturallanguageprocessing-ai-activity-7226979987214467073-_qBb?utm_source=share&utm_medium=member_desktop)
 
-- [Deep Refineforcement Learning](https://www.linkedin.com/pulse/deep-reinforcement-learning-powerful-tool-ai-pratham-patil-2kmac)
+- [Deep Reinforcement Learning](https://www.linkedin.com/pulse/deep-reinforcement-learning-powerful-tool-ai-pratham-patil-2kmac)
